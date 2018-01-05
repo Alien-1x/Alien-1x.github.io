@@ -1,10 +1,10 @@
 @font-face {
 	font-family: andika_basic;
-	src: url(../font/andika_basic.ttf);
+	src: url(andika_basic.ttf);
 }
 @font-face {
 	font-family: elegantech;
-	src: url(../font/elegantech.ttf);
+	src: url(elegantech.ttf);
 }
 html, body {
 	margin: 0px 0px 0px 0px;
