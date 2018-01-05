@@ -1,0 +1,107 @@
+@font-face {
+	font-family: monofur;
+	src: url(../font/monofur.ttf);
+}
+html, body {
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	font-size: 0px;
+	box-sizing: border-box;
+	background-color: #f2f1ef;
+}
+h1 {
+	margin: 20px 0px 20px 0px;
+	color: #22313f;
+	font-family: monofur;
+	font-size: 60px;
+}
+h2 {
+	margin: 20px 0px 20px 0px;
+	color: #22313f;
+	font-family: monofur;
+	font-size: 26px;
+}
+p {
+	margin: 20px 0px 20px 0px;
+	color: #34495e;
+	font-family: monofur;
+	font-size: 20px;
+}
+header {
+	margin: 0px 0px 0px 0px;
+	padding: 20px 50px 20px 0px;
+	font-family: monofur;
+	font-size: 28px;
+	color: #ffffff;
+	background-color: #22313f;
+}
+header ul {
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	list-style: none;
+	text-align: right;
+}
+header li {
+	margin: 0px 50px 0px 50px;
+	display: inline-block;
+}
+header a {
+	text-decoration: none;
+	color: #ffffff;
+}
+#profile {
+	margin: 0px 0px 0px 0px;
+	padding: 180px 0px 180px 0px;
+}
+#profile div {
+	display: inline-block;
+	vertical-align: top;
+}
+#profile-picture img {
+	width: 300px;
+	height: 300px;
+}
+#profile-picture {
+	text-align: center;
+	width: 30%;
+}
+#profile-text {
+	margin: 40px 20px 40px 20px;
+	width: 60%;
+}
+#works {
+	margin: 0px 0px 0px 0px;
+	padding: 180px 0px 180px 0px;
+}
+#slider {
+	margin: 0px 0px 0px 0px;
+	padding: 20px 10px 20px 10px;
+	background-color: #22313f;
+	text-align: center;
+}
+#slider div {
+	width: 320px;
+	height: 180px;
+	margin: 20px 80px 20px 0px;
+	display: inline-block;
+	background-repeat: no-repeat;
+}
+#contact {
+	margin: 0px 0px 0px 0px;
+	padding: 180px 0px 180px 0px;
+	text-align: center;
+}
+#contact div {
+	display: inline-block;
+}
+#contact img {
+	margin: 10px;
+}
+#facebook {
+	width: 30%;
+	text-align: center;
+}
+#gmail {
+	width: 30%;
+	text-align: center;
+}

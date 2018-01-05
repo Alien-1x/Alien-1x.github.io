@@ -1,0 +1,128 @@
+@font-face {
+	font-family: andika_basic;
+	src: url(../font/andika_basic.ttf);
+}
+@font-face {
+	font-family: elegantech;
+	src: url(../font/elegantech.ttf);
+}
+html, body {
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	font-size: 0px;
+	box-sizing: border-box;
+	background-color: #ececec;
+}
+header {
+	margin: 0px 0px 0px 0px;
+	padding: 10px 0px 10px 80px;
+	font-family: elegantech;
+	background-color: #e71130;
+}
+header h1 {
+	font-size: 36px;
+	color: #ffffff;
+	margin: 0px 0px 0px 0px;
+}
+#content {
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+}
+#content div {
+	display: inline-block;
+}
+#social {
+	width: 60px;
+	margin: 0px 0px 0px 0px;
+	padding: 50px 20px 0px 0px;
+	vertical-align: top;
+	text-align: right;
+}
+#social img {
+	width: 40px;
+	margin-bottom: 20px;
+}
+#text {
+	width: 60%;
+	margin: 0px 0px 0px 0px;
+	padding: 10px 40px 10px 40px;
+	background-color: #ffffff;
+	text-align: justify;
+}
+#text h2 {
+	font-size: 32px;
+	color: #000000;
+	font-family: elegantech;
+}
+#text h3 {
+	font-size: 12px;
+	color: #6C7A89;
+	font-weight: normal;
+	font-family: andika_basic;
+}
+#text h3 span {
+	color: #000000;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+#text p {
+	font-family: andika_basic;
+	font-size: 18px;
+	color: #000000;
+}
+#text img {
+	width: 100%;
+}
+#text figcaption {
+	font-family: andika_basic;
+	font-size: 14px;
+	color: #000000;
+}
+#more {
+	width: 350px;
+	margin: 0px 0px 0px 0px;
+	padding: 50px 0px 0px 10px;
+	vertical-align: top;
+}
+#more h4 {
+	margin: 0px 0px 0px 0px;
+	font-family: andika_basic;
+	font-size: 20px;
+	color: #6c7a89;
+	font-weight: bold;
+}
+#more h5 {
+	margin: 0px 0px 0px 0px;
+	font-family: andika_basic;
+	font-size: 12px;
+	color: #6c7a89;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+#more h6 {
+	margin: 0px 0px 0px 0px;
+	font-family: andika_basic;
+	font-size: 16px;
+	color: #000000;
+	font-weight: normal;
+}
+#more hr {
+	color: #e71130;
+}
+.article {
+	margin: 10px 0px 10px 0px;
+	padding: 10px 10px 10px 10px;
+	background-color: #ffffff
+}
+.article img {
+	margin: 5px 5px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	display: inline-block;
+}
+.article div {
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	width: 165px;
+	display: inline-block;
+	vertical-align: top;
+}
